@@ -1,0 +1,21 @@
+/* style.css */
+
+.odd {
+    background-color: rgb(255, 158, 174);
+    font-family: Verdana, sans-serif;
+}
+
+.font {
+    font-size: 24px;
+}
+
+.text-color,
+.font-size {
+    color: rgb(20, 20, 255);
+    font-size: 36px;
+}
+
+.background {
+    background-color: rgb(117, 235, 117);
+    font-weight: bold;
+}
