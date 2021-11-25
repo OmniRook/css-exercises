@@ -1,0 +1,16 @@
+/* style.css */
+
+.click-dark,
+.click-bright {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.click-dark {
+    background-color: black;
+    color: white;
+}
+
+.click-bright {
+    background-color: yellow;
+}
