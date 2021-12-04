@@ -1,5 +1,7 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 img {
@@ -10,6 +12,23 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  display: flex;
+  justify-content: center;
+  flex-basis: 100%;
+  padding-bottom: 32px;
+}
+
+.plant-info {
+  display: flex;
+}
+
+.herbs {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0px 52px;
+  max-width: 200px;
+  text-align: center;
 }
 
 /* do not edit this footer */
